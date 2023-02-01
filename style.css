@@ -126,13 +126,13 @@ h1 {
   object-fit: cover;
   border: 4px solid #3882f6;
   border-radius: 15px;
-  margin: 10px 70px 0px 70px;
+  margin: 40px 70px 0px 70px;
 }
 
 
 .secondary-info p {
     color: #1F2937;
-    margin: 10px 20px 10px 20px;
+    margin: 30px 20px 10px 20px;
 }
 
 

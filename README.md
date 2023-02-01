@@ -1,5 +1,3 @@
-# TOP-LandingPAGE
+# The Odin Project Foundation Course CSS.
 
 - Created a landing page using HTML & CSS.
-
-- The Odin Project CSS Foundations Project.

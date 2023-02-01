@@ -3,5 +3,8 @@
         "activityBar.background": "#41126E",
         "titleBar.activeBackground": "#5B199A",
         "titleBar.activeForeground": "#FDFBFE"
-    }
+    },
+    "liveServer.settings.port": 5501,
+    "git.ignoreLimitWarning": true
+
 }
